@@ -1,0 +1,19 @@
+#manipular{
+    background-color: red;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:1900px;
+    height: 800px; 
+}
